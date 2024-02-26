@@ -1,0 +1,223 @@
+-- Merging decision tree log ---
+application
+INJECTED from C:\dev\project\flutter\weather_app\android\app\src\main\AndroidManifest.xml:9:5-39:19
+MERGED from [:geolocator_android] C:\dev\project\flutter\weather_app\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
+MERGED from [:geolocator_android] C:\dev\project\flutter\weather_app\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\mikol\.gradle\caches\transforms-3\054c7f1700fc8d7dab7f6ac6829762c9\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\mikol\.gradle\caches\transforms-3\054c7f1700fc8d7dab7f6ac6829762c9\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.android.gms:play-services-location:21.1.0] C:\Users\mikol\.gradle\caches\transforms-3\26a3b7291faa6cd297f84f314d9737e7\transformed\jetified-play-services-location-21.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:21.1.0] C:\Users\mikol\.gradle\caches\transforms-3\26a3b7291faa6cd297f84f314d9737e7\transformed\jetified-play-services-location-21.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\mikol\.gradle\caches\transforms-3\681ad7da91462c1c513ca53046838892\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\mikol\.gradle\caches\transforms-3\681ad7da91462c1c513ca53046838892\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\mikol\.gradle\caches\transforms-3\4c45c960a9618a5b952c637e93031f84\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\mikol\.gradle\caches\transforms-3\4c45c960a9618a5b952c637e93031f84\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\mikol\.gradle\caches\transforms-3\19928e66c7f4b9025be2f83d18d95ed9\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\mikol\.gradle\caches\transforms-3\19928e66c7f4b9025be2f83d18d95ed9\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.9.0] C:\Users\mikol\.gradle\caches\transforms-3\d12515aa4f08a6247fbb6717d1561d00\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] C:\Users\mikol\.gradle\caches\transforms-3\d12515aa4f08a6247fbb6717d1561d00\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\mikol\.gradle\caches\transforms-3\e237a92e4e00d6e3b1a867d4679505b5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\mikol\.gradle\caches\transforms-3\e237a92e4e00d6e3b1a867d4679505b5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] C:\Users\mikol\.gradle\caches\transforms-3\d12515aa4f08a6247fbb6717d1561d00\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+	android:name
+		INJECTED from C:\dev\project\flutter\weather_app\android\app\src\main\AndroidManifest.xml
+manifest
+ADDED from C:\dev\project\flutter\weather_app\android\app\src\main\AndroidManifest.xml:1:1-51:12
+INJECTED from C:\dev\project\flutter\weather_app\android\app\src\main\AndroidManifest.xml:1:1-51:12
+INJECTED from C:\dev\project\flutter\weather_app\android\app\src\main\AndroidManifest.xml:1:1-51:12
+INJECTED from C:\dev\project\flutter\weather_app\android\app\src\main\AndroidManifest.xml:1:1-51:12
+MERGED from C:\dev\project\flutter\weather_app\android\app\src\main\AndroidManifest.xml:1:1-51:12
+MERGED from [:shared_preferences_android] C:\dev\project\flutter\weather_app\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:geolocator_android] C:\dev\project\flutter\weather_app\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-17:12
+MERGED from [:geocoding_android] C:\dev\project\flutter\weather_app\build\geocoding_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:path_provider_android] C:\dev\project\flutter\weather_app\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\mikol\.gradle\caches\transforms-3\f6aa9bdde18bc3687b79482fed95cf84\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\mikol\.gradle\caches\transforms-3\054c7f1700fc8d7dab7f6ac6829762c9\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [com.google.android.gms:play-services-location:21.1.0] C:\Users\mikol\.gradle\caches\transforms-3\26a3b7291faa6cd297f84f314d9737e7\transformed\jetified-play-services-location-21.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\mikol\.gradle\caches\transforms-3\681ad7da91462c1c513ca53046838892\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\mikol\.gradle\caches\transforms-3\4c45c960a9618a5b952c637e93031f84\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\mikol\.gradle\caches\transforms-3\19928e66c7f4b9025be2f83d18d95ed9\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\mikol\.gradle\caches\transforms-3\f4c6ba68d290b571cd7431a84276c74f\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mikol\.gradle\caches\transforms-3\40131589b8b483aa877a5e77b3e075ac\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mikol\.gradle\caches\transforms-3\0f32ca7f7aba94b9a2adabe012f441f0\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\mikol\.gradle\caches\transforms-3\8ba75845b5efa6b31dae473cd282e245\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\mikol\.gradle\caches\transforms-3\170f3272b3e1a519b55b0e119162e67f\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.9.0] C:\Users\mikol\.gradle\caches\transforms-3\d12515aa4f08a6247fbb6717d1561d00\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\mikol\.gradle\caches\transforms-3\a41ce9a14693d067bd880b526ef0eaa7\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\mikol\.gradle\caches\transforms-3\a6bf01d4b1e33f60bd5ce2338691bbe8\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\mikol\.gradle\caches\transforms-3\e237a92e4e00d6e3b1a867d4679505b5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\mikol\.gradle\caches\transforms-3\ffdfb84e15a6c98880a6963f9f8c3d48\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mikol\.gradle\caches\transforms-3\04866d3c62a9127b61f8d4c4f16b2651\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\mikol\.gradle\caches\transforms-3\f5156668e352eaf0cb69fe38aeca0fa7\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\mikol\.gradle\caches\transforms-3\b442f0536a4aaa13cadade2e46dafc42\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\mikol\.gradle\caches\transforms-3\7252307d73dcdbd9c0a89ff79bc2bef0\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\mikol\.gradle\caches\transforms-3\a7d488ee3a5c7d94a477a0809f422e06\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\dev\project\flutter\weather_app\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\dev\project\flutter\weather_app\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\dev\project\flutter\weather_app\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		INJECTED from C:\dev\project\flutter\weather_app\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\dev\project\flutter\weather_app\android\app\src\main\AndroidManifest.xml:1:1-51:12
+		INJECTED from C:\dev\project\flutter\weather_app\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\dev\project\flutter\weather_app\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\dev\project\flutter\weather_app\android\app\src\main\AndroidManifest.xml:1:1-51:12
+		INJECTED from C:\dev\project\flutter\weather_app\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\dev\project\flutter\weather_app\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\dev\project\flutter\weather_app\android\app\src\main\AndroidManifest.xml:1:1-51:12
+		INJECTED from C:\dev\project\flutter\weather_app\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\dev\project\flutter\weather_app\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\dev\project\flutter\weather_app\android\app\src\main\AndroidManifest.xml:3:5-79
+	android:name
+		ADDED from C:\dev\project\flutter\weather_app\android\app\src\main\AndroidManifest.xml:3:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\dev\project\flutter\weather_app\android\app\src\main\AndroidManifest.xml:4:5-81
+	android:name
+		ADDED from C:\dev\project\flutter\weather_app\android\app\src\main\AndroidManifest.xml:4:22-78
+uses-permission#android.permission.ACCESS_BACKGROUND_LOCATION
+ADDED from C:\dev\project\flutter\weather_app\android\app\src\main\AndroidManifest.xml:5:5-85
+	android:name
+		ADDED from C:\dev\project\flutter\weather_app\android\app\src\main\AndroidManifest.xml:5:22-82
+uses-permission#android.permission.INTERNET
+ADDED from C:\dev\project\flutter\weather_app\android\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from C:\dev\project\flutter\weather_app\android\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from C:\dev\project\flutter\weather_app\android\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\dev\project\flutter\weather_app\android\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\dev\project\flutter\weather_app\android\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from C:\dev\project\flutter\weather_app\android\app\src\main\AndroidManifest.xml:7:22-76
+queries
+ADDED from C:\dev\project\flutter\weather_app\android\app\src\main\AndroidManifest.xml:45:5-50:15
+intent#action:name:android.intent.action.PROCESS_TEXT+data:mimeType:text/plain
+ADDED from C:\dev\project\flutter\weather_app\android\app\src\main\AndroidManifest.xml:46:9-49:18
+action#android.intent.action.PROCESS_TEXT
+ADDED from C:\dev\project\flutter\weather_app\android\app\src\main\AndroidManifest.xml:47:13-72
+	android:name
+		ADDED from C:\dev\project\flutter\weather_app\android\app\src\main\AndroidManifest.xml:47:21-70
+data
+ADDED from C:\dev\project\flutter\weather_app\android\app\src\main\AndroidManifest.xml:48:13-50
+	android:mimeType
+		ADDED from C:\dev\project\flutter\weather_app\android\app\src\main\AndroidManifest.xml:48:19-48
+uses-sdk
+INJECTED from C:\dev\project\flutter\weather_app\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\dev\project\flutter\weather_app\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\dev\project\flutter\weather_app\android\app\src\main\AndroidManifest.xml
+MERGED from [:shared_preferences_android] C:\dev\project\flutter\weather_app\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:shared_preferences_android] C:\dev\project\flutter\weather_app\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:geolocator_android] C:\dev\project\flutter\weather_app\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:geolocator_android] C:\dev\project\flutter\weather_app\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:geocoding_android] C:\dev\project\flutter\weather_app\build\geocoding_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:geocoding_android] C:\dev\project\flutter\weather_app\build\geocoding_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] C:\dev\project\flutter\weather_app\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] C:\dev\project\flutter\weather_app\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\mikol\.gradle\caches\transforms-3\f6aa9bdde18bc3687b79482fed95cf84\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\mikol\.gradle\caches\transforms-3\f6aa9bdde18bc3687b79482fed95cf84\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\mikol\.gradle\caches\transforms-3\054c7f1700fc8d7dab7f6ac6829762c9\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\mikol\.gradle\caches\transforms-3\054c7f1700fc8d7dab7f6ac6829762c9\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-location:21.1.0] C:\Users\mikol\.gradle\caches\transforms-3\26a3b7291faa6cd297f84f314d9737e7\transformed\jetified-play-services-location-21.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:21.1.0] C:\Users\mikol\.gradle\caches\transforms-3\26a3b7291faa6cd297f84f314d9737e7\transformed\jetified-play-services-location-21.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\mikol\.gradle\caches\transforms-3\681ad7da91462c1c513ca53046838892\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\mikol\.gradle\caches\transforms-3\681ad7da91462c1c513ca53046838892\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\mikol\.gradle\caches\transforms-3\4c45c960a9618a5b952c637e93031f84\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\mikol\.gradle\caches\transforms-3\4c45c960a9618a5b952c637e93031f84\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\mikol\.gradle\caches\transforms-3\19928e66c7f4b9025be2f83d18d95ed9\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\mikol\.gradle\caches\transforms-3\19928e66c7f4b9025be2f83d18d95ed9\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\mikol\.gradle\caches\transforms-3\f4c6ba68d290b571cd7431a84276c74f\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\mikol\.gradle\caches\transforms-3\f4c6ba68d290b571cd7431a84276c74f\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mikol\.gradle\caches\transforms-3\40131589b8b483aa877a5e77b3e075ac\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mikol\.gradle\caches\transforms-3\40131589b8b483aa877a5e77b3e075ac\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mikol\.gradle\caches\transforms-3\0f32ca7f7aba94b9a2adabe012f441f0\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mikol\.gradle\caches\transforms-3\0f32ca7f7aba94b9a2adabe012f441f0\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\mikol\.gradle\caches\transforms-3\8ba75845b5efa6b31dae473cd282e245\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\mikol\.gradle\caches\transforms-3\8ba75845b5efa6b31dae473cd282e245\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\mikol\.gradle\caches\transforms-3\170f3272b3e1a519b55b0e119162e67f\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\mikol\.gradle\caches\transforms-3\170f3272b3e1a519b55b0e119162e67f\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\mikol\.gradle\caches\transforms-3\d12515aa4f08a6247fbb6717d1561d00\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\mikol\.gradle\caches\transforms-3\d12515aa4f08a6247fbb6717d1561d00\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\mikol\.gradle\caches\transforms-3\a41ce9a14693d067bd880b526ef0eaa7\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\mikol\.gradle\caches\transforms-3\a41ce9a14693d067bd880b526ef0eaa7\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\mikol\.gradle\caches\transforms-3\a6bf01d4b1e33f60bd5ce2338691bbe8\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\mikol\.gradle\caches\transforms-3\a6bf01d4b1e33f60bd5ce2338691bbe8\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\mikol\.gradle\caches\transforms-3\e237a92e4e00d6e3b1a867d4679505b5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\mikol\.gradle\caches\transforms-3\e237a92e4e00d6e3b1a867d4679505b5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\mikol\.gradle\caches\transforms-3\ffdfb84e15a6c98880a6963f9f8c3d48\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\mikol\.gradle\caches\transforms-3\ffdfb84e15a6c98880a6963f9f8c3d48\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mikol\.gradle\caches\transforms-3\04866d3c62a9127b61f8d4c4f16b2651\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mikol\.gradle\caches\transforms-3\04866d3c62a9127b61f8d4c4f16b2651\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\mikol\.gradle\caches\transforms-3\f5156668e352eaf0cb69fe38aeca0fa7\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\mikol\.gradle\caches\transforms-3\f5156668e352eaf0cb69fe38aeca0fa7\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\mikol\.gradle\caches\transforms-3\b442f0536a4aaa13cadade2e46dafc42\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\mikol\.gradle\caches\transforms-3\b442f0536a4aaa13cadade2e46dafc42\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\mikol\.gradle\caches\transforms-3\7252307d73dcdbd9c0a89ff79bc2bef0\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\mikol\.gradle\caches\transforms-3\7252307d73dcdbd9c0a89ff79bc2bef0\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\mikol\.gradle\caches\transforms-3\a7d488ee3a5c7d94a477a0809f422e06\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\mikol\.gradle\caches\transforms-3\a7d488ee3a5c7d94a477a0809f422e06\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\dev\project\flutter\weather_app\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\dev\project\flutter\weather_app\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\dev\project\flutter\weather_app\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\dev\project\flutter\weather_app\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\dev\project\flutter\weather_app\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\dev\project\flutter\weather_app\android\app\src\debug\AndroidManifest.xml
+service#com.baseflow.geolocator.GeolocatorLocationService
+ADDED from [:geolocator_android] C:\dev\project\flutter\weather_app\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:56
+	android:enabled
+		ADDED from [:geolocator_android] C:\dev\project\flutter\weather_app\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-35
+	android:exported
+		ADDED from [:geolocator_android] C:\dev\project\flutter\weather_app\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-37
+	android:foregroundServiceType
+		ADDED from [:geolocator_android] C:\dev\project\flutter\weather_app\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-53
+	android:name
+		ADDED from [:geolocator_android] C:\dev\project\flutter\weather_app\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-77
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\mikol\.gradle\caches\transforms-3\054c7f1700fc8d7dab7f6ac6829762c9\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\mikol\.gradle\caches\transforms-3\054c7f1700fc8d7dab7f6ac6829762c9\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\mikol\.gradle\caches\transforms-3\054c7f1700fc8d7dab7f6ac6829762c9\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\mikol\.gradle\caches\transforms-3\054c7f1700fc8d7dab7f6ac6829762c9\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\mikol\.gradle\caches\transforms-3\054c7f1700fc8d7dab7f6ac6829762c9\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\mikol\.gradle\caches\transforms-3\054c7f1700fc8d7dab7f6ac6829762c9\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\mikol\.gradle\caches\transforms-3\681ad7da91462c1c513ca53046838892\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\mikol\.gradle\caches\transforms-3\681ad7da91462c1c513ca53046838892\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\mikol\.gradle\caches\transforms-3\681ad7da91462c1c513ca53046838892\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\mikol\.gradle\caches\transforms-3\681ad7da91462c1c513ca53046838892\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\mikol\.gradle\caches\transforms-3\19928e66c7f4b9025be2f83d18d95ed9\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\mikol\.gradle\caches\transforms-3\19928e66c7f4b9025be2f83d18d95ed9\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\mikol\.gradle\caches\transforms-3\19928e66c7f4b9025be2f83d18d95ed9\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\mikol\.gradle\caches\transforms-3\d12515aa4f08a6247fbb6717d1561d00\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\mikol\.gradle\caches\transforms-3\d12515aa4f08a6247fbb6717d1561d00\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\mikol\.gradle\caches\transforms-3\d12515aa4f08a6247fbb6717d1561d00\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+permission#com.example.flutter_application_1.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\mikol\.gradle\caches\transforms-3\d12515aa4f08a6247fbb6717d1561d00\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\mikol\.gradle\caches\transforms-3\d12515aa4f08a6247fbb6717d1561d00\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\mikol\.gradle\caches\transforms-3\d12515aa4f08a6247fbb6717d1561d00\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\mikol\.gradle\caches\transforms-3\d12515aa4f08a6247fbb6717d1561d00\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\mikol\.gradle\caches\transforms-3\d12515aa4f08a6247fbb6717d1561d00\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.flutter_application_1.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\mikol\.gradle\caches\transforms-3\d12515aa4f08a6247fbb6717d1561d00\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\mikol\.gradle\caches\transforms-3\d12515aa4f08a6247fbb6717d1561d00\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
