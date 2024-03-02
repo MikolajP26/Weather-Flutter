@@ -389,70 +389,68 @@ class _WeatherPageState extends State<WeatherPage> {
   }
 
   Widget _buildWeatherInfoContainer() {
-    return Padding(
-      padding: EdgeInsets.all(0.0),
-      child: Container(
-        width: double.infinity,
-        decoration: BoxDecoration(
-          color: Color.fromARGB(50, 105, 105, 105),
-          borderRadius: BorderRadius.circular(25.0),
-        ),
-        padding: EdgeInsets.all(16.0),
-        child: Column(
-          children: [
-            Align(
-              alignment: Alignment.topCenter,
-              child: Text(
-                'Current Conditions',
-                style: TextStyle(
-                  fontSize: 18.0,
-                  fontWeight: FontWeight.bold,
-                  color: Colors.white,
-                ),
+    return Container(
+      width: 400,
+      height: 300,
+      padding: EdgeInsets.all(15),
+      decoration: BoxDecoration(
+        color: Color.fromARGB(50, 105, 105, 105),
+        borderRadius: BorderRadius.circular(25),
+      ),
+      child: Column(
+        children: [
+          Align(
+            alignment: Alignment.topCenter,
+            child: Text(
+              'Current Conditions',
+              style: TextStyle(
+                fontSize: 18.0,
+                fontWeight: FontWeight.bold,
+                color: Colors.white,
               ),
             ),
-            SizedBox(height: 16.0),
-            Row(
-              mainAxisAlignment: MainAxisAlignment.spaceBetween,
-              children: [
-                _buildCityWeatherContainer(
-                  'Wind',
-                  '${_weather?.currentWindSpeed} m/s',
-                ),
-                SizedBox(width: 16.0),
-                _buildCityWeatherContainer(
-                  'Humidity',
-                  '${_weather?.currentHumidity} %',
-                ),
-                SizedBox(width: 16.0),
-                _buildCityWeatherContainer(
-                  'Pressure',
-                  '${_weather?.currentPressure} hPa',
-                ),
-              ],
-            ),
-            SizedBox(height: 16.0),
-            Row(
-              mainAxisAlignment: MainAxisAlignment.spaceBetween,
-              children: [
-                _buildCityWeatherContainer(
-                  'Max Temp',
-                  '${_weather?.currentTempMax} °C',
-                ),
-                SizedBox(width: 16.0),
-                _buildCityWeatherContainer(
-                  'Cloudiness',
-                  '${_weather?.currentClouds} %',
-                ),
-                SizedBox(width: 16.0),
-                _buildCityWeatherContainer(
-                  'Min Temp',
-                  '${_weather?.currentTempMin} °C',
-                ),
-              ],
-            ),
-          ],
-        ),
+          ),
+          SizedBox(height: 16.0),
+          Row(
+            mainAxisAlignment: MainAxisAlignment.spaceBetween,
+            children: [
+              _buildCityWeatherContainer(
+                'Wind',
+                '${_weather?.currentWindSpeed} m/s',
+              ),
+              SizedBox(width: 16.0),
+              _buildCityWeatherContainer(
+                'Humidity',
+                '${_weather?.currentHumidity} %',
+              ),
+              SizedBox(width: 16.0),
+              _buildCityWeatherContainer(
+                'Pressure',
+                '${_weather?.currentPressure} hPa',
+              ),
+            ],
+          ),
+          SizedBox(height: 16.0),
+          Row(
+            mainAxisAlignment: MainAxisAlignment.spaceBetween,
+            children: [
+              _buildCityWeatherContainer(
+                'Max Temp',
+                '${_weather?.currentTempMax} °C',
+              ),
+              SizedBox(width: 16.0),
+              _buildCityWeatherContainer(
+                'Cloudiness',
+                '${_weather?.currentClouds} %',
+              ),
+              SizedBox(width: 16.0),
+              _buildCityWeatherContainer(
+                'Min Temp',
+                '${_weather?.currentTempMin} °C',
+              ),
+            ],
+          ),
+        ],
       ),
     );
   }
