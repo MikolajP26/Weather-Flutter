@@ -29,8 +29,7 @@ class CurrentWeather {
   factory CurrentWeather.fromJson(Map<String, dynamic> json) {
     final List<dynamic> weatherData = json['weather'];
 
-    DateTime lastUpdated =
-        DateTime.now(); // Default value if 'dt' is not present
+    DateTime lastUpdated = DateTime.now();
 
     if (json.containsKey('dt') && json['dt'] != null) {
       lastUpdated = DateTime.fromMillisecondsSinceEpoch(json['dt'] * 1000);
